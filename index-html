@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+    <link href="style.css"/>
+  </head>
+  
+  <body>
+  <div class="header">
+      <h1>Pizza Shoppe!</h1>
+    </div>
+      
+    <div>  
+      <img src="https://www.foodandwine.com/thmb/4qg95tjf0mgdHqez5OLLYc0PNT4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/classic-cheese-pizza-FT-RECIPE0422-31a2c938fc2546c9a07b7011658cfd05.jpg"/>  
+      <h4>Come eat some pizza! </h4>
+    
+      <ul>
+      <li>Cheese Pizza</li>
+      <li>Sausage Pizza</li>
+      <li>Pepperoni Pizza</li>
+    </div>
+      
+    <div class="footer">
+      <h6>Copywrite Peter Ingles 2023</h6>
+    </div>
+    </body>
+        
+</html>
